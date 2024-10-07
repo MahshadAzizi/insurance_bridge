@@ -8,28 +8,28 @@ $ cd url_shortener
 ```
 
 ## Database connection
-Some environment variables can be defined to connect to the postgresql database:
+Some environment variables must be defined to connect to the postgresql database:
 
 ```
-- **`POSTGRES_DB`**
-- **`POSTGRES_USER`**
-- **`POSTGRES_PASSWORD`**
-- **`POSTGRES_HOST`**
-- **`POSTGRES_PORT`**
+- POSTGRES_DB
+- POSTGRES_USER
+- POSTGRES_PASSWORD
+- POSTGRES_HOST
+- POSTGRES_PORT
 ```
 
 ## Backend variables
 Some environment variables must be defined to connect to the backend service:
 
 ```
-- **`SECRET_KEY`**
-- **`DEBUG`**
-- **`ALLOWED_HOSTS`**
-- **`DB_NAME`**
-- **`DB_USER`**
-- **`DB_PASSWORD`**
-- **`DB_HOST`**
-- **`DB_PORT`**
+- SECRET_KEY
+- DEBUG
+- ALLOWED_HOSTS
+- DB_NAME
+- DB_USER
+- DB_PASSWORD
+- DB_HOST
+- DB_PORT
 ```
 
 ## How to run the app:
