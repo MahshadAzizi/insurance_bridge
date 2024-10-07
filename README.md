@@ -3,8 +3,8 @@
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/MahshadAzizi/url_shortener.git
-$ cd url_shortener
+$ git clone https://github.com/MahshadAzizi/insurance_bridge.git 
+$ cd insurance_bridge
 ```
 
 ## Database connection
