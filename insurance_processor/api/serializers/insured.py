@@ -7,9 +7,5 @@ class InsuredSerializer(serializers.ModelSerializer):
     class Meta:
         model = Insured
         fields = [
-            'user',
-            'policy',
-            'plan',
-            'organization',
             'insured_id',
         ]
