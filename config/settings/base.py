@@ -32,6 +32,7 @@ INSTALLED_APPS = [
 
     'rest_framework',
     'insurance_processor.apps.InsuranceProcessorConfig',
+    'users.apps.UsersConfig',
 ]
 
 MIDDLEWARE = [
