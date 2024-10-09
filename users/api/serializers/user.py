@@ -15,4 +15,5 @@ class UserSerializer(serializers.ModelSerializer):
             'place_of_issue',
             'mobile_number',
             'birth_date',
+            'created_at'
         ]
